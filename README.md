@@ -14,6 +14,16 @@ class to detect in low-bound is walk-out
 
 # What it can detect people object ?
 cap-people
+
 hood-black-people
+
 helmet-people
+
 head-people
+
+# What model is used ?
+MobileNetV2 SSD (best model)
+
+YOLOv5
+
+YOLOv8
